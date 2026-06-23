@@ -22,6 +22,11 @@ The landing page presents information about the company, services offered, featu
 - Git
 - Github pages
 
+## installation
+```bash
+git clone https://github.com/venusnamsya/finnova.git
+```
+
 ## Project purpose
 This project was created as part of a wed development learning exercise to practice HTML structure, CSS styling, and github deployment.
 
